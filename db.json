@@ -19,7 +19,7 @@
 		"id": 5,
 		"title": "project 5",
 		"timeStamp": "05-04-2022"
-	},{
+	}, {
 		"id": 6,
 		"title": "project 6",
 		"timeStamp": "06-04-2022"
@@ -28,98 +28,97 @@
 		"id": 1,
 		"title": "question 1",
 		"type": "radio",
-		"anwers" : [{
+		"anwers": [{
 			"id": "a1",
 			"text": "answer 1"
-		},{
+		}, {
 			"id": "a2",
 			"text": "answer 2"
-		},{
+		}, {
 			"id": "a3",
 			"text": "answer 3"
-		},{
+		}, {
 			"id": "a4",
 			"text": "answer 4"
-		},{
+		}, {
 			"id": "a5",
 			"text": "answer 5"
-		},{
+		}, {
 			"id": "a6",
 			"text": "answer 6"
 		}]
-		
+
 	}, {
 		"id": 2,
 		"title": "question 2",
 		"type": "checkbox",
-		"anwers" : [{
+		"anwers": [{
 			"id": "b1",
 			"text": "answer 1"
-		},{
+		}, {
 			"id": "b2",
 			"text": "answer 2"
-		},{
+		}, {
 			"id": "b3",
 			"text": "answer 3"
-		},{
+		}, {
 			"id": "b4",
 			"text": "answer 4"
-		},{
+		}, {
 			"id": "b5",
 			"text": "answer 5"
-		},{
+		}, {
 			"id": "b6",
 			"text": "answer 6"
 		}]
-		
-	},{
+
+	}, {
 		"id": 3,
 		"title": "question 3",
 		"type": "radio",
-		"anwers" : [{
+		"anwers": [{
 			"id": "c1",
 			"text": "answer 1"
-		},{
+		}, {
 			"id": "c2",
 			"text": "answer 2"
-		},{
+		}, {
 			"id": "c3",
 			"text": "answer 3"
-		},{
+		}, {
 			"id": "c4",
 			"text": "answer 4"
-		},{
+		}, {
 			"id": "c5",
 			"text": "answer 5"
-		},{
+		}, {
 			"id": "c6",
 			"text": "answer 6"
 		}]
-		
-	},{
+
+	}, {
 		"id": 4,
 		"title": "question 4",
 		"type": "checkbox",
-		"anwers" : [{
+		"anwers": [{
 			"id": "d1",
 			"text": "answer 1"
-		},{
+		}, {
 			"id": "d2",
 			"text": "answer 2"
-		},{
+		}, {
 			"id": "d3",
 			"text": "answer 3"
-		},{
+		}, {
 			"id": "d4",
 			"text": "answer 4"
-		},{
+		}, {
 			"id": "d5",
 			"text": "answer 5"
-		},{
+		}, {
 			"id": "d6",
 			"text": "answer 6"
 		}]
-		
-	},
-	]
+
+	}]
 }

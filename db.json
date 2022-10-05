@@ -120,5 +120,68 @@
 			"text": "answer 6"
 		}]
 
-	}]
+	}],
+	"projectData": [{
+			"id": 1,
+			"title": "question 1",
+			"type": "text"
+		},
+		{
+			"id": 2,
+			"title": "question 2",
+			"type": "checkbox",
+			"answers": [{
+				"id": "e1",
+				"text": "answer 1"
+			}, {
+				"id": "e2",
+				"text": "answer 2"
+			}, {
+				"id": "e3",
+				"text": "answer 3"
+			}, {
+				"id": "e4",
+				"text": "answer 4"
+			}, {
+				"id": "e5",
+				"text": "answer 5"
+			}, {
+				"id": "e6",
+				"text": "answer 6"
+			}]
+		},
+		{
+			"id": 3,
+			"title": "question 3",
+			"type": "text"
+		}, {
+			"id": 4,
+			"title": "question 4",
+			"type": "slider"
+		}, {
+			"id": 5,
+			"title": "question 5",
+			"type": "radio",
+			"answers": [{
+				"id": "f1",
+				"text": "answer 1"
+			}, {
+				"id": "f2",
+				"text": "answer 2"
+			}, {
+				"id": "f3",
+				"text": "answer 3"
+			}, {
+				"id": "f4",
+				"text": "answer 4"
+			}, {
+				"id": "f5",
+				"text": "answer 5"
+			}, {
+				"id": "f6",
+				"text": "answer 6"
+			}]
+
+		}
+	]
 }
